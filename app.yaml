@@ -1,0 +1,13 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /
+  static_files: index.html
+  upload: index\.html 
+  
+- url: /images
+  static_dir: images  
+  
+- url: /assets
+  static_dir: assets  
