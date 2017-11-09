@@ -1,2 +1,3 @@
 https://github.com/scratchtainan/scratch-tainan.git
-scratch-tainan.appspot.com
+<br>
+https://scratch-tainan.appspot.com
